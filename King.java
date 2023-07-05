@@ -33,6 +33,8 @@ public class King{
 		obj.add("Ganapati");
 		obj.add("Chintamani");
 		obj.add(1001);
+		obj.add("Mahadev");
+		obj.add("Krishna");
 		
 		for(int i=0;i<obj.size();i++){
 			
