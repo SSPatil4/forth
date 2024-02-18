@@ -6,7 +6,7 @@ public class army{
 	}
 	
 	 public static void main(String [] args){
-	//	System.out.println("from main mathod ");
+	//	System.out.println("from main mathod loaded ");
 	
 	}
 
