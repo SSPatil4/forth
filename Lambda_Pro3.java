@@ -15,7 +15,7 @@ public class Lambda_Pro3 implements Navy{
         Navy n = new Navy() {
             @Override
             public void sail() {
-                System.out.println("ano navy ");
+                System.out.println("tfd");
             }
         };
         n.sail();
