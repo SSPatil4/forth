@@ -1,7 +1,7 @@
 public class army{
 
 	static {
-		System.out.println("static block");
+		System.out.println("static");
 
 	}
 	
